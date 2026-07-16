@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: DamagelogJobsiteDamageTests
-      - path: DamagelogJobsiteDamage.storekit
     dependencies:
       - target: DamagelogJobsiteDamage
     settings:
